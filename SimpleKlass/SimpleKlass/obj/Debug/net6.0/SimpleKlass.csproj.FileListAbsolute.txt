@@ -1,0 +1,15 @@
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\bin\Debug\net6.0\SimpleKlass.exe
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\bin\Debug\net6.0\SimpleKlass.deps.json
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\bin\Debug\net6.0\SimpleKlass.runtimeconfig.json
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\bin\Debug\net6.0\SimpleKlass.dll
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\bin\Debug\net6.0\SimpleKlass.pdb
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\SimpleKlass.csproj.AssemblyReference.cache
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\SimpleKlass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\SimpleKlass.AssemblyInfoInputs.cache
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\SimpleKlass.AssemblyInfo.cs
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\SimpleKlass.csproj.CoreCompileInputs.cache
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\SimpleKlass.dll
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\refint\SimpleKlass.dll
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\SimpleKlass.pdb
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\SimpleKlass.genruntimeconfig.cache
+C:\Users\sanji\Desktop\H1\OOP\SimpleClass\SimpleKlass\SimpleKlass\obj\Debug\net6.0\ref\SimpleKlass.dll
